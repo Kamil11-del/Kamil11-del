@@ -22,11 +22,10 @@
 
 ## 🧬 About Me
 
-Hey there! I'm **Muhammad Kamil Khan**, an AI Researcher and Computer Vision Engineer based in Peshawar, Pakistan. I work at the **Digital Image Processing Lab, Islamia College University**, where I design and train deep learning systems that help machines understand the visual world — even in rain, fog, and snow.
+Hey there! I'm **Muhammad Kamil Khan**, an AI Researcher and Computer Vision Engineer. I work at the **Digital Image Processing Lab, Islamia College University**, where I design and train deep learning systems that help machines understand the visual world.
 
 I'm passionate about pushing the boundaries of what neural networks can perceive, with a focus on building robust, efficient, and real-world-ready vision systems.
 
-- 🎓 &nbsp; **BSc Software Engineering** — Islamia College University *(GPA: 3.55 / 4.00)*
 - 🔬 &nbsp; **Research Areas** — Computer Vision, Panoptic Segmentation, State Space Models, Diffusion Models, Multimodal AI
 - 🌩️ &nbsp; **Current Focus** — *PanopMamba*: Robust Panoptic Segmentation in Adverse Weather Conditions
 - 🏗️ &nbsp; **Approach** — End-to-end pipelines from architecture design → training → optimization → evaluation
