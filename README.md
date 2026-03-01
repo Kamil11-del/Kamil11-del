@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%26+Computer+Vision+Researcher;🔭+Transformers+%7C+SSMs+%7C+Diffusion+Models;📊+Panoptic+Segmentation+%7C+Scene+Understanding;🚀+Building+the+future+of+Visual+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%26+Computer+Vision+Researcher;🔭+Transformers+%7C+SSMs+%7C+Diffusion+Models;📊+Panoptic+Segmentation+%7C+Scene+Understanding;🚀+Building+the+future+of+Visual+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,32 +22,16 @@
 
 ## 🧬 About Me
 
-```python
-class AIResearcher:
-    def __init__(self):
-        self.name        = "Muhammad Kamil Khan"
-        self.role        = "AI Researcher & Computer Vision Engineer"
-        self.lab         = "Digital Image Processing Lab, ICU Peshawar"
-        self.education   = "BSc Software Engineering — GPA 3.55/4.00"
+Hey there! I'm **Muhammad Kamil Khan**, an AI Researcher and Computer Vision Engineer based in Peshawar, Pakistan. I work at the **Digital Image Processing Lab, Islamia College University**, where I design and train deep learning systems that help machines understand the visual world — even in rain, fog, and snow.
 
-        self.research_interests = [
-            "Computer Vision",
-            "Panoptic Segmentation",
-            "State Space Models",
-            "Diffusion Models",
-            "Multimodal AI",
-            "Robust Scene Understanding",
-        ]
+I'm passionate about pushing the boundaries of what neural networks can perceive, with a focus on building robust, efficient, and real-world-ready vision systems.
 
-        self.current_focus = "PanopMamba — Panoptic Segmentation in Adverse Weather 🌧️"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's push the boundaries of visual AI together 🚀")
-
-me = AIResearcher()
-me.say_hi()
-```
-
+- 🎓 &nbsp; **BSc Software Engineering** — Islamia College University *(GPA: 3.55 / 4.00)*
+- 🔬 &nbsp; **Research Areas** — Computer Vision, Panoptic Segmentation, State Space Models, Diffusion Models, Multimodal AI
+- 🌩️ &nbsp; **Current Focus** — *PanopMamba*: Robust Panoptic Segmentation in Adverse Weather Conditions
+- 🏗️ &nbsp; **Approach** — End-to-end pipelines from architecture design → training → optimization → evaluation
+- 📄 &nbsp; **Goal** — Contributing to peer-reviewed publications at high-impact AI venues
+- 💡 &nbsp; **Philosophy** — *"Pushing the boundaries of what machines can see, one architecture at a time."*
 ---
 
 ## 🔬 Research Projects
@@ -142,14 +126,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamil11-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=1ABC9C&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamil11-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=1ABC9C&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil11-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamil11-del&theme=tokyonight&hide_border=true&background=0D1117&ring=2E86AB&fire=1ABC9C&currStreakLabel=2E86AB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kamil11-del&theme=tokyonight&hide_border=true&background=0D1117&ring=2E86AB&fire=1ABC9C&currStreakLabel=2E86AB)](https://git.io/streak-stats)
 
 </div>
 
@@ -165,7 +149,7 @@ me.say_hi()
               ┌────────────────────────────┼────────────────────────────┐
               │                            │                            │
     ┌─────────▼──────────┐    ┌────────────▼──────────┐   ┌────────────▼──────────┐
-    │   👁️ Computer Vision │    │  🌀 Generative Models  │   │  📡 Temporal Models   │
+    │👁️ Computer Vision  │   🌀 Generative Models    │   | 📡 Temporal Models    │
     │                    │    │                       │   │                       │
     │ • Panoptic Seg.    │    │ • Diffusion Models    │   │ • Action Segmentation │
     │ • Adverse Weather  │    │ • Image Synthesis     │   │ • State Space Models  │
@@ -175,9 +159,9 @@ me.say_hi()
               └────────────────────────────┼────────────────────────────┘
                                            │
                              ┌─────────────▼─────────────┐
-                             │   🤖 Multimodal AI Systems  │
-                             │  Transformers · GNNs · CNNs │
-                             └─────────────────────────────┘
+                             │ 🤖 Multimodal AI Systems │
+                             │ Transformers · GNNs · CNNs│
+                             └───────────────────────────┘
 ```
 
 
@@ -204,7 +188,7 @@ If you're working on **Computer Vision**, **Deep Learning**, or **AI Research** 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kamil11-del&label=Profile+Views&color=2E86AB&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Kamil11-del&label=Profile+Views&color=2E86AB&style=flat-square" alt="Profile Views" />
 
 *⭐ Star my repos if you find them useful!*
 </div>
